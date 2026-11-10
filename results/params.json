@@ -1,0 +1,17 @@
+{
+  "tfidf": {
+    "alpha": 0.8,
+    "cold_pop_weight": 0.5,
+    "val_recall@5": 0.23
+  },
+  "sbert": {
+    "alpha": 1.0,
+    "cold_pop_weight": 0.5,
+    "val_recall@5": 0.22125
+  },
+  "openai": {
+    "alpha": 1.0,
+    "cold_pop_weight": 0.5,
+    "val_recall@5": 0.22125
+  }
+}

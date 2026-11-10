@@ -1,0 +1,15 @@
+# Kaggle data isn't mine to share; see data/README.md for how to get it
+data/raw/
+data/processed/
+
+# secrets
+.env
+*.key
+
+# Python and Jupyter clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+desktop.ini

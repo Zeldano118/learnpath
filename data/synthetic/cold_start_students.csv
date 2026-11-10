@@ -1,0 +1,201 @@
+student_id,age_band,education_level,region,learning_style,weekly_hours,goal,self_reported_level,stated_interests,true_interests,true_level,split
+N0001,35-44,Master's or higher,South Asia,hands_on,5.0,upskill for current job,Beginner,governance and society; data analysis,governance-and-society; data-analysis,2,val
+N0002,35-44,Master's or higher,Latin America,hands_on,2.5,career switch,Intermediate,mobile and web development,mobile-and-web-development,2,val
+N0003,35-44,Bachelor's,Southeast Asia,visual,8.0,career switch,Beginner,machine learning,probability-and-statistics,1,val
+N0004,25-34,Bachelor's,Sub-Saharan Africa,visual,4.5,personal interest,Intermediate,marketing; economics,marketing; economics,2,val
+N0005,45+,Bachelor's,South Asia,reading,5.5,personal interest,Beginner,computer security and networks,computer-security-and-networks,1,val
+N0006,18-24,Master's or higher,Middle East & North Africa,visual,20.0,personal interest,Intermediate,software development,history,2,val
+N0007,18-24,Bachelor's,North America,hands_on,6.0,career switch,Intermediate,security; public health,security; public-health,2,val
+N0008,35-44,Bachelor's,South Asia,hands_on,1.5,career switch,Intermediate,marketing,cloud-computing,2,val
+N0009,25-34,Bachelor's,Europe,hands_on,10.0,upskill for current job,Beginner,public health; environmental science and sustainability,public-health; leadership-and-management,1,val
+N0010,25-34,Bachelor's,North America,hands_on,6.0,academic study,Beginner,physics and astronomy; mobile and web development,physics-and-astronomy; mobile-and-web-development,1,val
+N0011,45+,Bachelor's,South Asia,visual,11.0,upskill for current job,Advanced,design and product,design-and-product,3,val
+N0012,18-24,Bachelor's,North America,visual,3.0,academic study,Beginner,electrical engineering,electrical-engineering,2,val
+N0013,35-44,Master's or higher,Southeast Asia,reading,5.0,upskill for current job,Intermediate,patient care,patient-care,2,val
+N0014,45+,Bachelor's,South Asia,visual,5.5,career switch,Intermediate,history; environmental science and sustainability,history; environmental-science-and-sustainability,3,val
+N0015,18-24,High school,North America,hands_on,2.5,upskill for current job,Beginner,data management,data-management,2,val
+N0016,18-24,Bachelor's,Southeast Asia,visual,9.5,upskill for current job,Beginner,data analysis; business strategy,data-analysis; business-strategy,1,val
+N0017,45+,Master's or higher,North America,hands_on,3.5,career switch,Intermediate,leadership and management,leadership-and-management,2,val
+N0018,25-34,Bachelor's,North America,visual,7.5,career switch,Beginner,leadership and management; software development,leadership-and-management; software-development,1,val
+N0019,25-34,Bachelor's,Sub-Saharan Africa,visual,5.0,career switch,Intermediate,algorithms; computer security and networks,algorithms; computer-security-and-networks,2,val
+N0020,25-34,Bachelor's,Middle East & North Africa,hands_on,11.0,upskill for current job,Intermediate,probability and statistics,environmental-science-and-sustainability,2,val
+N0021,25-34,High school,North America,visual,6.5,career switch,Beginner,marketing; software development,marketing; software-development,1,val
+N0022,25-34,Bachelor's,Middle East & North Africa,hands_on,7.5,personal interest,Intermediate,software development; mechanical engineering,software-development; mechanical-engineering,2,val
+N0023,45+,Bachelor's,North America,reading,6.5,upskill for current job,Beginner,algorithms,algorithms,1,val
+N0024,18-24,Master's or higher,Southeast Asia,hands_on,8.0,personal interest,Advanced,public health,public-health,3,val
+N0025,35-44,Bachelor's,South Asia,visual,3.5,personal interest,Intermediate,marketing,marketing,2,val
+N0026,25-34,High school,Latin America,visual,2.5,career switch,Advanced,software development; business essentials,software-development; business-essentials,2,val
+N0027,18-24,High school,South Asia,reading,4.5,upskill for current job,Beginner,education; machine learning,education; machine-learning,1,val
+N0028,45+,Bachelor's,Southeast Asia,visual,2.0,upskill for current job,Intermediate,other languages,other-languages,1,val
+N0029,18-24,Bachelor's,Europe,visual,8.0,upskill for current job,Intermediate,software development,software-development,2,val
+N0030,18-24,Bachelor's,Sub-Saharan Africa,visual,2.5,upskill for current job,Beginner,machine learning; governance and society,machine-learning; governance-and-society,1,val
+N0031,18-24,Bachelor's,Middle East & North Africa,hands_on,5.5,upskill for current job,Intermediate,research methods,mobile-and-web-development,2,val
+N0032,18-24,High school,Europe,hands_on,3.5,career switch,Beginner,history,history,2,val
+N0033,18-24,Bachelor's,Southeast Asia,hands_on,4.5,career switch,Advanced,marketing,marketing,2,val
+N0034,25-34,Master's or higher,Southeast Asia,hands_on,3.0,personal interest,Advanced,security,patient-care,3,val
+N0035,18-24,Bachelor's,Middle East & North Africa,visual,2.5,personal interest,Advanced,data analysis; cloud computing,data-analysis; cloud-computing,3,val
+N0036,35-44,Bachelor's,North America,visual,6.0,upskill for current job,Beginner,probability and statistics; data management,probability-and-statistics; data-management,1,val
+N0037,18-24,Master's or higher,South Asia,hands_on,8.5,academic study,Advanced,patient care; business strategy,patient-care; business-strategy,3,val
+N0038,18-24,Bachelor's,North America,hands_on,2.5,career switch,Beginner,business strategy; mobile and web development,business-strategy; data-analysis,1,val
+N0039,25-34,Bachelor's,Latin America,visual,3.5,upskill for current job,Beginner,music and art; finance,music-and-art; finance,1,val
+N0040,25-34,Bachelor's,Southeast Asia,visual,3.5,personal interest,Beginner,learning english,learning-english,1,val
+N0041,45+,High school,South Asia,hands_on,2.5,academic study,Beginner,patient care,patient-care,1,val
+N0042,18-24,Bachelor's,Middle East & North Africa,visual,3.0,upskill for current job,Beginner,probability and statistics,environmental-science-and-sustainability,1,val
+N0043,35-44,Bachelor's,North America,visual,3.5,personal interest,Beginner,health informatics; software development,health-informatics; software-development,1,val
+N0044,18-24,Master's or higher,Middle East & North Africa,reading,6.0,career switch,Beginner,patient care,patient-care,1,val
+N0045,25-34,High school,Sub-Saharan Africa,visual,4.5,career switch,Beginner,security,security,1,val
+N0046,35-44,Bachelor's,South Asia,visual,5.0,personal interest,Beginner,data management; algorithms,data-management; algorithms,1,val
+N0047,25-34,High school,Europe,visual,5.5,career switch,Intermediate,mechanical engineering,business-essentials,1,val
+N0048,35-44,High school,North America,reading,5.5,upskill for current job,Advanced,basic science; machine learning,basic-science; machine-learning,3,val
+N0049,25-34,Master's or higher,Middle East & North Africa,visual,4.0,upskill for current job,Beginner,finance; algorithms,finance; healthcare-management,1,val
+N0050,45+,Bachelor's,North America,reading,4.5,upskill for current job,Beginner,mechanical engineering; machine learning,mechanical-engineering; machine-learning,1,val
+N0051,25-34,Master's or higher,Middle East & North Africa,hands_on,3.0,academic study,Intermediate,public health,public-health,2,val
+N0052,25-34,Bachelor's,Europe,hands_on,3.5,upskill for current job,Intermediate,personal development; business essentials,personal-development; business-essentials,2,val
+N0053,18-24,Bachelor's,South Asia,visual,6.5,academic study,Intermediate,business essentials; patient care,business-essentials; security,2,val
+N0054,25-34,Bachelor's,North America,visual,4.5,career switch,Beginner,economics; environmental science and sustainability,economics; environmental-science-and-sustainability,2,val
+N0055,25-34,High school,Middle East & North Africa,visual,3.5,personal interest,Advanced,music and art,music-and-art,3,val
+N0056,25-34,High school,Latin America,hands_on,10.0,career switch,Beginner,leadership and management,leadership-and-management,1,val
+N0057,35-44,Bachelor's,Sub-Saharan Africa,visual,5.5,career switch,Beginner,research; marketing,research; music-and-art,1,val
+N0058,25-34,Bachelor's,North America,visual,1.5,upskill for current job,Intermediate,business strategy; research,business-strategy; governance-and-society,1,val
+N0059,18-24,Bachelor's,South Asia,reading,4.0,personal interest,Beginner,personal development,personal-development,1,val
+N0060,25-34,High school,Latin America,visual,3.5,personal interest,Advanced,mechanical engineering; computer security and networks,mechanical-engineering; machine-learning,2,val
+N0061,18-24,Master's or higher,North America,reading,2.5,personal interest,Intermediate,machine learning; health informatics,machine-learning; health-informatics,2,val
+N0062,35-44,Master's or higher,South Asia,visual,3.5,upskill for current job,Advanced,mobile and web development; math and logic,mobile-and-web-development; math-and-logic,3,val
+N0063,18-24,High school,North America,reading,3.5,personal interest,Intermediate,data analysis,data-analysis,1,val
+N0064,18-24,High school,Latin America,visual,2.5,personal interest,Beginner,algorithms,basic-science,1,val
+N0065,25-34,Master's or higher,Europe,reading,8.0,personal interest,Advanced,economics,chemistry,3,val
+N0066,35-44,Bachelor's,South Asia,reading,8.0,academic study,Beginner,leadership and management,leadership-and-management,1,val
+N0067,18-24,Bachelor's,Southeast Asia,hands_on,5.5,personal interest,Intermediate,security; physics and astronomy,security; economics,3,val
+N0068,25-34,Master's or higher,North America,visual,5.0,academic study,Advanced,personal development,electrical-engineering,3,val
+N0069,18-24,High school,North America,reading,14.5,career switch,Intermediate,business strategy; leadership and management,business-strategy; leadership-and-management,2,val
+N0070,25-34,High school,Southeast Asia,visual,6.0,academic study,Advanced,math and logic,math-and-logic,3,val
+N0071,45+,Bachelor's,North America,visual,3.5,career switch,Intermediate,support and operations,support-and-operations,1,val
+N0072,35-44,Bachelor's,North America,visual,6.0,personal interest,Beginner,machine learning; personal development,machine-learning; nutrition,1,val
+N0073,25-34,Bachelor's,North America,hands_on,7.5,personal interest,Advanced,marketing,marketing,3,val
+N0074,18-24,Bachelor's,Latin America,visual,5.5,personal interest,Beginner,mobile and web development,mobile-and-web-development,1,val
+N0075,35-44,High school,Southeast Asia,hands_on,5.0,upskill for current job,Beginner,computer security and networks; business strategy,computer-security-and-networks; business-strategy,1,val
+N0076,18-24,High school,South Asia,visual,8.5,career switch,Intermediate,finance; design and product,finance; health-informatics,2,val
+N0077,35-44,Master's or higher,Europe,visual,5.5,career switch,Beginner,governance and society,governance-and-society,1,val
+N0078,18-24,Bachelor's,Europe,reading,9.5,academic study,Beginner,basic science,basic-science,1,val
+N0079,25-34,Master's or higher,Sub-Saharan Africa,hands_on,4.0,academic study,Advanced,algorithms; entrepreneurship,algorithms; entrepreneurship,3,val
+N0080,25-34,High school,South Asia,visual,5.0,career switch,Intermediate,machine learning,machine-learning,1,val
+N0081,25-34,Master's or higher,Southeast Asia,hands_on,4.5,upskill for current job,Advanced,math and logic,data-analysis,3,val
+N0082,35-44,High school,South Asia,hands_on,2.0,personal interest,Beginner,business strategy; leadership and management,business-strategy; leadership-and-management,1,val
+N0083,18-24,Bachelor's,North America,reading,4.0,career switch,Beginner,leadership and management,leadership-and-management,2,val
+N0084,18-24,Bachelor's,Southeast Asia,visual,6.5,career switch,Beginner,entrepreneurship; business essentials,entrepreneurship; business-essentials,1,val
+N0085,25-34,Master's or higher,Southeast Asia,visual,6.5,career switch,Beginner,data analysis,data-analysis,1,val
+N0086,25-34,High school,Middle East & North Africa,hands_on,5.0,career switch,Beginner,design and product,design-and-product,1,val
+N0087,35-44,Master's or higher,Southeast Asia,visual,3.0,career switch,Advanced,probability and statistics,finance,2,val
+N0088,35-44,High school,Southeast Asia,hands_on,5.0,career switch,Beginner,patient care; cloud computing,patient-care; electrical-engineering,1,val
+N0089,18-24,High school,Latin America,hands_on,5.5,upskill for current job,Beginner,music and art; cloud computing,music-and-art; cloud-computing,1,val
+N0090,25-34,Master's or higher,Southeast Asia,visual,3.5,personal interest,Intermediate,security; business essentials,security; business-essentials,2,val
+N0091,18-24,Bachelor's,South Asia,hands_on,8.5,career switch,Beginner,mechanical engineering; basic science,mechanical-engineering; basic-science,1,val
+N0092,25-34,Bachelor's,Southeast Asia,reading,3.0,personal interest,Beginner,learning english,business-strategy,1,val
+N0093,18-24,Master's or higher,North America,reading,9.0,career switch,Advanced,public health; business essentials,public-health; software-development,3,val
+N0094,18-24,High school,Europe,hands_on,1.0,upskill for current job,Beginner,data analysis,data-analysis,1,val
+N0095,18-24,Bachelor's,South Asia,hands_on,5.5,academic study,Beginner,business strategy,business-strategy,1,val
+N0096,25-34,Bachelor's,South Asia,reading,8.0,upskill for current job,Intermediate,healthcare management; public health,healthcare-management; cloud-computing,2,val
+N0097,25-34,Bachelor's,Middle East & North Africa,visual,3.0,upskill for current job,Intermediate,networking; math and logic,networking; math-and-logic,2,val
+N0098,25-34,Master's or higher,South Asia,reading,5.5,upskill for current job,Beginner,computer security and networks,computer-security-and-networks,1,val
+N0099,18-24,Bachelor's,North America,hands_on,4.5,career switch,Intermediate,music and art; probability and statistics,music-and-art; probability-and-statistics,2,val
+N0100,18-24,High school,Middle East & North Africa,reading,4.5,academic study,Beginner,support and operations,support-and-operations,1,val
+N0101,18-24,Bachelor's,Southeast Asia,reading,5.0,career switch,Advanced,design and product,mobile-and-web-development,3,test
+N0102,18-24,Bachelor's,South Asia,hands_on,6.5,career switch,Intermediate,software development; business strategy,software-development; business-strategy,2,test
+N0103,25-34,Bachelor's,Latin America,visual,10.5,academic study,Advanced,healthcare management,electrical-engineering,2,test
+N0104,45+,High school,Latin America,visual,6.5,career switch,Beginner,business strategy,business-strategy,1,test
+N0105,35-44,Bachelor's,South Asia,visual,5.5,personal interest,Beginner,mechanical engineering,mechanical-engineering,1,test
+N0106,18-24,Master's or higher,Europe,hands_on,5.5,career switch,Intermediate,electrical engineering; basic science,electrical-engineering; basic-science,2,test
+N0107,18-24,Bachelor's,Southeast Asia,hands_on,3.5,personal interest,Beginner,machine learning; basic science,machine-learning; basic-science,1,test
+N0108,45+,Master's or higher,Latin America,hands_on,5.0,academic study,Intermediate,education,education,3,test
+N0109,35-44,Bachelor's,Europe,reading,7.5,personal interest,Advanced,law,law,3,test
+N0110,18-24,Bachelor's,Southeast Asia,visual,2.0,personal interest,Intermediate,finance,finance,2,test
+N0111,35-44,High school,South Asia,visual,8.0,upskill for current job,Advanced,governance and society; psychology,governance-and-society; leadership-and-management,3,test
+N0112,25-34,High school,Southeast Asia,hands_on,4.0,career switch,Beginner,machine learning,machine-learning,1,test
+N0113,35-44,Bachelor's,South Asia,hands_on,6.5,personal interest,Intermediate,leadership and management; data analysis,leadership-and-management; data-analysis,2,test
+N0114,25-34,Bachelor's,North America,hands_on,11.0,upskill for current job,Advanced,marketing,marketing,3,test
+N0115,18-24,Bachelor's,Europe,visual,3.0,academic study,Intermediate,business essentials; music and art,business-essentials; music-and-art,3,test
+N0116,25-34,Bachelor's,Latin America,reading,1.5,upskill for current job,Beginner,mechanical engineering,mechanical-engineering,1,test
+N0117,25-34,High school,North America,hands_on,3.0,upskill for current job,Beginner,networking; support and operations,networking; support-and-operations,1,test
+N0118,45+,Bachelor's,Southeast Asia,reading,3.0,personal interest,Advanced,support and operations,support-and-operations,2,test
+N0119,25-34,High school,North America,reading,3.5,upskill for current job,Beginner,basic science; healthcare management,basic-science; healthcare-management,2,test
+N0120,35-44,High school,South Asia,hands_on,4.5,academic study,Advanced,chemistry; education,chemistry; education,3,test
+N0121,35-44,Master's or higher,South Asia,visual,9.5,career switch,Intermediate,education; algorithms,education; cloud-computing,2,test
+N0122,18-24,Master's or higher,Europe,hands_on,3.0,academic study,Advanced,computer security and networks; environmental science and sustainability,computer-security-and-networks; environmental-science-and-sustainability,3,test
+N0123,45+,Bachelor's,Europe,hands_on,7.5,upskill for current job,Beginner,design and product; entrepreneurship,design-and-product; data-analysis,1,test
+N0124,18-24,Bachelor's,Southeast Asia,visual,7.5,upskill for current job,Beginner,probability and statistics; machine learning,probability-and-statistics; machine-learning,1,test
+N0125,25-34,Bachelor's,Middle East & North Africa,hands_on,5.5,career switch,Intermediate,public health; education,public-health; education,1,test
+N0126,18-24,Bachelor's,South Asia,visual,6.5,personal interest,Intermediate,health informatics; basic science,health-informatics; basic-science,2,test
+N0127,25-34,Bachelor's,Europe,hands_on,5.0,upskill for current job,Advanced,business strategy,law,3,test
+N0128,18-24,Bachelor's,South Asia,reading,6.5,academic study,Beginner,healthcare management; machine learning,healthcare-management; machine-learning,1,test
+N0129,18-24,Bachelor's,Europe,hands_on,3.5,upskill for current job,Intermediate,other languages; law,other-languages; law,1,test
+N0130,18-24,High school,North America,visual,4.5,career switch,Beginner,design and product; healthcare management,design-and-product; healthcare-management,1,test
+N0131,25-34,Bachelor's,Europe,reading,6.0,academic study,Beginner,marketing,chemistry,1,test
+N0132,25-34,Bachelor's,North America,visual,1.5,personal interest,Beginner,education,education,1,test
+N0133,18-24,Bachelor's,Middle East & North Africa,hands_on,3.5,career switch,Advanced,software development; computer security and networks,software-development; computer-security-and-networks,2,test
+N0134,18-24,Master's or higher,North America,visual,5.0,academic study,Intermediate,software development,software-development,1,test
+N0135,18-24,High school,Europe,hands_on,7.0,academic study,Beginner,leadership and management,leadership-and-management,1,test
+N0136,18-24,Bachelor's,North America,hands_on,12.0,upskill for current job,Intermediate,mechanical engineering; environmental science and sustainability,mechanical-engineering; public-health,2,test
+N0137,18-24,Bachelor's,South Asia,reading,8.5,career switch,Beginner,basic science,basic-science,1,test
+N0138,25-34,Master's or higher,Europe,reading,5.0,academic study,Advanced,computer security and networks; music and art,computer-security-and-networks; music-and-art,3,test
+N0139,45+,High school,South Asia,visual,9.0,upskill for current job,Intermediate,nutrition,machine-learning,1,test
+N0140,45+,Bachelor's,Middle East & North Africa,visual,3.5,career switch,Beginner,finance; public health,finance; public-health,1,test
+N0141,18-24,Bachelor's,Southeast Asia,hands_on,5.5,academic study,Advanced,support and operations; networking,support-and-operations; networking,3,test
+N0142,45+,Bachelor's,South Asia,visual,9.0,career switch,Intermediate,data management,mechanical-engineering,2,test
+N0143,25-34,Bachelor's,Sub-Saharan Africa,visual,8.0,upskill for current job,Advanced,mechanical engineering; governance and society,mechanical-engineering; governance-and-society,3,test
+N0144,18-24,High school,South Asia,reading,9.5,career switch,Intermediate,environmental science and sustainability,environmental-science-and-sustainability,2,test
+N0145,18-24,Bachelor's,Southeast Asia,visual,9.0,personal interest,Beginner,business strategy; mechanical engineering,business-strategy; mechanical-engineering,1,test
+N0146,25-34,High school,Southeast Asia,visual,3.5,upskill for current job,Intermediate,governance and society; public health,governance-and-society; public-health,2,test
+N0147,18-24,Master's or higher,Europe,hands_on,6.5,career switch,Intermediate,economics,economics,2,test
+N0148,45+,Bachelor's,Europe,visual,4.5,upskill for current job,Intermediate,data analysis; history,data-analysis; history,2,test
+N0149,18-24,Bachelor's,North America,reading,3.5,upskill for current job,Beginner,entrepreneurship,computer-security-and-networks,1,test
+N0150,25-34,Bachelor's,Europe,visual,6.5,upskill for current job,Advanced,education,marketing,3,test
+N0151,18-24,High school,Southeast Asia,visual,2.5,career switch,Beginner,business strategy,business-strategy,1,test
+N0152,35-44,Master's or higher,Latin America,hands_on,2.5,career switch,Beginner,education,education,1,test
+N0153,18-24,Bachelor's,Southeast Asia,hands_on,8.0,career switch,Beginner,data management,data-management,1,test
+N0154,45+,Bachelor's,Sub-Saharan Africa,visual,2.5,academic study,Beginner,software development; support and operations,software-development; support-and-operations,1,test
+N0155,18-24,Bachelor's,Southeast Asia,hands_on,2.5,career switch,Beginner,law,law,1,test
+N0156,35-44,Bachelor's,Southeast Asia,visual,14.0,upskill for current job,Intermediate,business strategy,business-strategy,2,test
+N0157,35-44,Bachelor's,Europe,reading,6.0,academic study,Intermediate,nutrition; computer security and networks,nutrition; computer-security-and-networks,2,test
+N0158,45+,Master's or higher,Europe,hands_on,4.0,personal interest,Beginner,history; software development,history; software-development,1,test
+N0159,25-34,Bachelor's,Europe,visual,7.5,personal interest,Beginner,basic science,basic-science,1,test
+N0160,25-34,Master's or higher,North America,hands_on,3.0,academic study,Advanced,data analysis,data-analysis,3,test
+N0161,18-24,Master's or higher,Southeast Asia,visual,3.5,upskill for current job,Intermediate,basic science,finance,2,test
+N0162,18-24,Bachelor's,Southeast Asia,hands_on,3.5,upskill for current job,Advanced,entrepreneurship,entrepreneurship,3,test
+N0163,35-44,Master's or higher,Southeast Asia,reading,4.5,upskill for current job,Advanced,algorithms; software development,algorithms; software-development,3,test
+N0164,25-34,High school,North America,hands_on,3.0,personal interest,Intermediate,software development,software-development,1,test
+N0165,45+,High school,South Asia,hands_on,7.0,career switch,Beginner,algorithms,algorithms,2,test
+N0166,25-34,Bachelor's,North America,reading,3.5,career switch,Intermediate,learning english,research-methods,1,test
+N0167,45+,Master's or higher,Europe,hands_on,3.5,upskill for current job,Beginner,patient care; education,patient-care; education,1,test
+N0168,35-44,Bachelor's,Southeast Asia,visual,4.5,academic study,Advanced,mechanical engineering,mechanical-engineering,3,test
+N0169,18-24,Master's or higher,South Asia,reading,5.0,personal interest,Beginner,business strategy; machine learning,business-strategy; machine-learning,2,test
+N0170,25-34,Master's or higher,North America,reading,7.0,upskill for current job,Intermediate,business strategy,business-strategy,2,test
+N0171,18-24,Master's or higher,Europe,hands_on,2.0,upskill for current job,Intermediate,entrepreneurship; research methods,entrepreneurship; research-methods,2,test
+N0172,35-44,Bachelor's,Europe,visual,3.5,career switch,Advanced,mobile and web development,mobile-and-web-development,3,test
+N0173,25-34,Bachelor's,Latin America,hands_on,4.0,career switch,Intermediate,marketing; leadership and management,marketing; leadership-and-management,3,test
+N0174,35-44,High school,North America,reading,9.0,career switch,Intermediate,machine learning,machine-learning,1,test
+N0175,35-44,Master's or higher,Middle East & North Africa,visual,8.5,academic study,Advanced,computer security and networks,computer-security-and-networks,3,test
+N0176,45+,Bachelor's,North America,visual,6.5,upskill for current job,Intermediate,patient care,data-analysis,1,test
+N0177,35-44,Bachelor's,Middle East & North Africa,hands_on,6.0,career switch,Advanced,governance and society,history,3,test
+N0178,35-44,Bachelor's,North America,hands_on,10.0,upskill for current job,Advanced,leadership and management; cloud computing,leadership-and-management; cloud-computing,2,test
+N0179,25-34,Bachelor's,Europe,visual,2.0,personal interest,Beginner,mechanical engineering,mechanical-engineering,1,test
+N0180,25-34,Bachelor's,North America,visual,13.5,upskill for current job,Beginner,algorithms,algorithms,1,test
+N0181,35-44,Bachelor's,Southeast Asia,visual,3.5,upskill for current job,Intermediate,design and product,design-and-product,2,test
+N0182,18-24,High school,Middle East & North Africa,reading,6.5,career switch,Beginner,cloud computing,economics,1,test
+N0183,18-24,Bachelor's,South Asia,visual,2.5,upskill for current job,Intermediate,leadership and management; machine learning,leadership-and-management; machine-learning,1,test
+N0184,45+,Bachelor's,Sub-Saharan Africa,hands_on,2.5,upskill for current job,Advanced,software development,environmental-science-and-sustainability,3,test
+N0185,35-44,Master's or higher,South Asia,visual,5.5,upskill for current job,Advanced,business essentials,business-essentials,3,test
+N0186,18-24,Master's or higher,Middle East & North Africa,hands_on,2.0,upskill for current job,Advanced,data analysis,data-analysis,3,test
+N0187,18-24,High school,Latin America,hands_on,5.5,career switch,Beginner,public health; mobile and web development,public-health; health-informatics,1,test
+N0188,45+,High school,Middle East & North Africa,visual,6.0,personal interest,Intermediate,networking,business-strategy,2,test
+N0189,18-24,High school,Latin America,reading,3.0,career switch,Intermediate,electrical engineering,physics-and-astronomy,2,test
+N0190,35-44,Bachelor's,Europe,hands_on,3.5,personal interest,Advanced,software development,software-development,3,test
+N0191,35-44,Bachelor's,Europe,visual,3.5,upskill for current job,Beginner,software development; physics and astronomy,software-development; physics-and-astronomy,1,test
+N0192,18-24,Bachelor's,Middle East & North Africa,hands_on,5.0,personal interest,Beginner,public health; entrepreneurship,public-health; entrepreneurship,1,test
+N0193,45+,Master's or higher,Europe,hands_on,3.5,personal interest,Beginner,business essentials; machine learning,business-essentials; machine-learning,1,test
+N0194,18-24,Bachelor's,Europe,visual,13.0,upskill for current job,Intermediate,mechanical engineering; music and art,mechanical-engineering; music-and-art,2,test
+N0195,25-34,Bachelor's,Middle East & North Africa,reading,6.5,career switch,Beginner,machine learning; mobile and web development,machine-learning; mobile-and-web-development,1,test
+N0196,35-44,Bachelor's,Southeast Asia,reading,8.5,personal interest,Intermediate,other languages,health-informatics,2,test
+N0197,18-24,High school,Southeast Asia,reading,7.5,upskill for current job,Beginner,public health; history,public-health; history,1,test
+N0198,18-24,Bachelor's,Europe,hands_on,4.5,upskill for current job,Intermediate,electrical engineering; physics and astronomy,electrical-engineering; computer-security-and-networks,2,test
+N0199,18-24,Bachelor's,Southeast Asia,reading,3.0,career switch,Intermediate,music and art,music-and-art,2,test
+N0200,18-24,Bachelor's,Europe,visual,11.0,upskill for current job,Intermediate,public health; environmental science and sustainability,public-health; environmental-science-and-sustainability,2,test

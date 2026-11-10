@@ -1,0 +1,5 @@
+provider,model,prompt,calls,failed_calls,invented_ids_caught,repeats_caught,slots_filled,median_latency_s,median_output_tokens,cost_per_1000_recs_usd,total_cost_usd
+deepseek,deepseek-flash,v1,400,0,0,0,0,1.82,169.0,0.822555,0.329022
+openai,gpt-4o-mini,v1,400,0,4,0,4,4.165,192.0,0.419757375,0.16790295
+deepseek,deepseek-flash,v2,400,0,0,0,0,1.79,162.0,0.895407,0.3581628
+openai,gpt-4o-mini,v2,400,0,238,0,238,3.2,142.0,0.43253587499999996,0.17301434999999998
